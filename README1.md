@@ -3,8 +3,8 @@
 
 ---
 
-![Screenshot-to-Code Header](https://via.placeholder.com/1000x250?text=Screenshot-to-Code+Banner)  
-*(You can replace the above placeholder with a custom SVG banner)*
+![Screenshot-to-Code Header](![image](https://github.com/user-attachments/assets/c5be442f-7204-4b0a-9494-2f8627370999)
+)  
 
 ---
 
@@ -72,7 +72,11 @@ Follow these steps to set up the project on your local machine.
 2. **Create a Virtual Environment**:
    ```bash
    python3 -m venv venv
+   ```
+   ```
    source venv/bin/activate  # For Linux/Mac
+   ```
+   ```
    .\venv\Scripts\activate   # For Windows
    ```
 
@@ -130,7 +134,8 @@ Once the application is running, follow these steps:
 
 ### Web Interface
 
-![Interface Screenshot](![image](https://github.com/user-attachments/assets/eb0c5a90-4ca5-4529-aad2-e3212a29bdd0)
+![Interface Screenshot](![image](https://github.com/user-attachments/assets/1dd57ac4-5635-4d80-bf70-960210d3d02b)
+)
 )  
 
 
