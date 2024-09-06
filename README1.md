@@ -3,7 +3,7 @@
 
 ---
 
-![Screenshot-to-Code Header](https://github.com/Techsynx/snip2code/blob/main/Capture.PNG)
+![Screenshot-to-Code Header](https://github.com/Techsynx/snip2code/blob/main/download.jpeg)
 )  
 
 ---
@@ -43,9 +43,8 @@ The tool uses a **Convolutional Neural Network (CNN)** to analyze the image stru
 - **Pre-trained Model**: Leverage a pre-trained deep learning model for fast predictions.
 - **Customizable Output**: Modify and improve the generated code to suit your needs.
 - **Supports Common Image Formats**: PNG, JPG.
+ 
 
-![Demo GIF]([https://via.placeholder.com/800x450?text=Demo+GIF](https://www.google.com/imgres?q=screenshot%20ot%20code&imgurl=https%3A%2F%2Fi.imgur.com%2FNSCltwI.png&imgrefurl=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DJeffersonLicet.snipped&docid=98XgdcWc87sglM&tbnid=kRnXym0i2bzzTM&vet=12ahUKEwiPsfvfhK6IAxX7RvEDHQXBOPMQM3oECFUQAA..i&w=2073&h=1998&hcb=2&ved=2ahUKEwiPsfvfhK6IAxX7RvEDHQXBOPMQM3oECFUQAA))  
-*(You can replace this with a GIF demonstrating the tool)*
 
 ---
 
@@ -134,16 +133,14 @@ Once the application is running, follow these steps:
 
 ### Web Interface
 
-![Interface Screenshot](![image](https://github.com/user-attachments/assets/1dd57ac4-5635-4d80-bf70-960210d3d02b)
-)
-)  
+![Interface Screenshot](https://github.com/Techsynx/snip2code/blob/main/Capture.PNG )
+ 
 
 
 ### Code Generation Example
+![Code Example Screenshot](https://github.com/Techsynx/snip2code/blob/main/Capture.PNG )
 
-![Code Example Screenshot](![Uploading image.png…]()
-)  
-*(You can replace this with a screenshot showing the generated code)*
+
 
 ---
 
