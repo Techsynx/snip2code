@@ -138,7 +138,7 @@ Once the application is running, follow these steps:
 
 
 ### Code Generation Example
-![Code Example Screenshot](https://github.com/Techsynx/snip2code/blob/main/Capture.PNG )
+![Code Example Screenshot](https://github.com/Techsynx/snip2code/blob/main/download%20(1).jpeg)
 
 
 
