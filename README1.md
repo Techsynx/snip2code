@@ -3,7 +3,7 @@
 
 ---
 
-![Screenshot-to-Code Header]([![image](https://github.com/user-attachments/assets/c5be442f-7204-4b0a-9494-2f8627370999](https://www.google.com/imgres?q=screenshot%20ot%20code&imgurl=https%3A%2F%2Fscreenshottocode.com%2Fbrand%2Ftwitter-summary-card.png&imgrefurl=https%3A%2F%2Fscreenshottocode.com%2F&docid=MhJIu7T-94Q40M&tbnid=dGiC-3nT-8F1gM&vet=12ahUKEwiPsfvfhK6IAxX7RvEDHQXBOPMQM3oFCIgBEAA..i&w=1200&h=628&hcb=2&ved=2ahUKEwiPsfvfhK6IAxX7RvEDHQXBOPMQM3oFCIgBEAA))
+![Screenshot-to-Code Header](https://github.com/Techsynx/snip2code/blob/main/Capture.PNG)
 )  
 
 ---
